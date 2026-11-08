@@ -1,3 +1,5 @@
-fichero que empezó en rama master. y dentro de poco finalizara
+fichero que empezó en rama master.
 
 Empezó llamándose master
+
+este curso se ha realizado en junio y julio
