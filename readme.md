@@ -6,3 +6,6 @@ Primer commit. Segundo commit ::: Estos serán los cambions para el pull request
 
 Pero no entiendo por qué no aparecen los otros cambios....
 Estarán en Readme??
+
+Cambios cambios cambios
+Y má scambios cambios
